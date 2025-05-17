@@ -1,4 +1,7 @@
-# 🧠 Verve  
+#  Verve  🥗
+#Empower your everyday wellness with us!
+
+
 **AI-Powered Nutrition & Fitness Advisor for Chronic Disease Management**
 
 ![E Logo](images/Ettizan_logo_enhanced22.png)
@@ -119,18 +122,14 @@ Verve isn’t just another fitness app. It’s purpose-built for people managing
 
 ---
 
-## 📸 Screenshots  
-![VerveScreens](images/diagrams/EttizanScreens.pdf)
-
----
-
 ## 📬 Contact  
-For feedback, support, or collaboration, reach out at: **vivek.kk224**
+For feedback, support, or collaboration, reach out at: **verveapp@gmail.com**
 
 ---
+
 
 ## 👨‍💻 Development Team  
-- **Vivek K K**  https://github.com/Vivek-the-creator
-- **Vishnupriyan P R**   https://github.com/vishnupriyanpr183207
+- **Vivek K K**          : https://github.com/Vivek-the-creator
+- **Vishnupriyan P R**   : https://github.com/vishnupriyanpr183207
 
 ---
