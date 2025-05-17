@@ -1,4 +1,5 @@
 # 🥗 Verve  
+#Empower your everyday wellness with us !
 **AI-Powered Nutrition & Fitness Advisor for Chronic Disease Management**
 
 ![E Logo](images/Ettizan_logo_enhanced22.png)
