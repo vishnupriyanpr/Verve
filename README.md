@@ -120,7 +120,7 @@ Verve isn’t just another fitness app. It’s purpose-built for people managing
 ---
 
 ## 📬 Contact  
-For feedback, support, or collaboration, reach out at: **vivek.kk224**
+For feedback, support, or collaboration, reach out at: **verveapp@gmail.com**
 
 ---
 
