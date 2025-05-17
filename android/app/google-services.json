@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "332840344309",
+    "project_id": "customplans-41d82",
+    "storage_bucket": "customplans-41d82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332840344309:android:bbbb76cbe5e7c72fb183bc",
+        "android_client_info": {
+          "package_name": "com.example.verve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDvZHrJ7cJdXuFxEyZO_zc94sgi4jJEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

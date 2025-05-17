@@ -1,0 +1,2 @@
+C:/Users/Vivek/OneDrive/Desktop/Verve Proto/android/app/.cxx/Debug/6f5s71o5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Vivek/OneDrive/Desktop/Verve Proto/android/app/.cxx/Debug/6f5s71o5/x86_64/CMakeFiles/rebuild_cache.dir

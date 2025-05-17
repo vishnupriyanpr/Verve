@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\src\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Vivek\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Ettizan-Personalized-AI-Plans-for-Chronic-Disease-Management-through-Nutrition-and-Fitness-main\\android\\app\\.cxx\\Debug\\22s5ps49\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Vivek\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Ettizan-Personalized-AI-Plans-for-Chronic-Disease-Management-through-Nutrition-and-Fitness-main\\android\\app\\.cxx\\Debug\\22s5ps49\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

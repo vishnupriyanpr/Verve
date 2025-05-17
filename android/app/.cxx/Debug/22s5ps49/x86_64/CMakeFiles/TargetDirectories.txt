@@ -1,0 +1,2 @@
+C:/Ettizan-Personalized-AI-Plans-for-Chronic-Disease-Management-through-Nutrition-and-Fitness-main/android/app/.cxx/Debug/22s5ps49/x86_64/CMakeFiles/edit_cache.dir
+C:/Ettizan-Personalized-AI-Plans-for-Chronic-Disease-Management-through-Nutrition-and-Fitness-main/android/app/.cxx/Debug/22s5ps49/x86_64/CMakeFiles/rebuild_cache.dir
