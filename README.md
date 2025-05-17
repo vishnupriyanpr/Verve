@@ -119,11 +119,6 @@ Verve isn’t just another fitness app. It’s purpose-built for people managing
 
 ---
 
-## 📸 Screenshots  
-![VerveScreens](images/diagrams/EttizanScreens.pdf)
-
----
-
 ## 📬 Contact  
 For feedback, support, or collaboration, reach out at: **vivek.kk224**
 
