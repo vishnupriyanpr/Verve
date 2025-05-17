@@ -98,7 +98,7 @@ class HistoryPage extends StatelessWidget {
       height: 280,
       decoration: const BoxDecoration(
         gradient: LinearGradient(
-          colors: [Color(0xFF76D7C4), Color(0xFF66BB6A)],
+          colors: [Color(0xFF05ABC4), Color(0xFF286181)],
           begin: Alignment.topLeft,
           end: Alignment.bottomRight,
         ),
@@ -113,7 +113,7 @@ class HistoryPage extends StatelessWidget {
               clipper: WaveClipper(),
               child: Container(
                 height: 100,
-                color: const Color(0xFF008080).withOpacity(0.3),
+                color: const Color(0xFF1F0051).withOpacity(0.3),
               ),
             ),
           ),
@@ -125,7 +125,7 @@ class HistoryPage extends StatelessWidget {
               clipper: WaveClipper(),
               child: Container(
                 height: 80,
-                color: const Color(0xFF008080).withOpacity(0.5),
+                color: const Color(0xFF1F0051).withOpacity(0.5),
               ),
             ),
           ),
@@ -219,7 +219,7 @@ class HistoryPage extends StatelessWidget {
   Widget _buildMealTile(String mealTitle, List<Map<String, dynamic>> items, IconData icon) {
     if (items.isEmpty) {
       return ListTile(
-        leading: Icon(icon, color: Colors.teal),
+        leading: Icon(icon, color: Color(0xFF1F0051)),
         title: Text('$mealTitle: No items'),
       );
     }
@@ -228,7 +228,7 @@ class HistoryPage extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         ListTile(
-          leading: Icon(icon, color: Colors.teal),
+          leading: Icon(icon, color: Color(0xFF1F0051)),
           title: Text('$mealTitle (${items.length} items)'),
         ),
         ...items.map((item) {
@@ -272,7 +272,7 @@ class HistoryPage extends StatelessWidget {
                   const Divider(thickness: 1, height: 20),
                   // Ingredients Section
                   ExpansionTile(
-                    leading: const Icon(Icons.list, color: Colors.teal),
+                    leading: const Icon(Icons.list, color: Color(0xFF1F0051)),
                     title: const Text(
                       'Ingredients',
                       style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
@@ -289,7 +289,7 @@ class HistoryPage extends StatelessWidget {
                   ),
                   // Preparation Section
                   ExpansionTile(
-                    leading: const Icon(Icons.receipt, color: Colors.teal),
+                    leading: const Icon(Icons.receipt, color: Color(0xFF1F0051)),
                     title: const Text(
                       'Preparation',
                       style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
