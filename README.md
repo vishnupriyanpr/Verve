@@ -130,7 +130,7 @@ For feedback, support, or collaboration, reach out at: **vivek.kk224**
 ---
 
 ## 👨‍💻 Development Team  
-- **Vivek K K**  
-- **Vishnupriyan P R**
+- **Vivek K K**  https://github.com/Vivek-the-creator
+- **Vishnupriyan P R**   https://github.com/vishnupriyanpr183207
 
 ---
