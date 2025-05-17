@@ -1,0 +1,10 @@
+/lib/
+/assets/
+/android/
+/ios/
+pubspec.yaml
+pubspec.lock
+README.md
+.gitignore
+.env.example
+firebase.json
