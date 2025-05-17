@@ -123,7 +123,7 @@ Verve isn’t just another fitness app. It’s purpose-built for people managing
 ---
 
 ## 📬 Contact  
-For feedback, support, or collaboration, reach out at: **verveapp1215@gmail.com**
+For feedback, support, or collaboration, reach out at: **verveapp1215@gmail.com**,
 Don't forget to like the repository !
 
 ---
