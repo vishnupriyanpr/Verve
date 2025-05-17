@@ -1,5 +1,5 @@
 #  Verve  🥗
-#Empower your everyday wellness with us !
+#Empower your everyday wellness with us!
 
 
 **AI-Powered Nutrition & Fitness Advisor for Chronic Disease Management**
