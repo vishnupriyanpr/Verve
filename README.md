@@ -1,5 +1,5 @@
 #  Verve  🥗
-#Empower your everyday wellness with us!
+Empower your everyday wellness with us !
 
 
 **AI-Powered Nutrition & Fitness Advisor for Chronic Disease Management**
@@ -123,7 +123,7 @@ Verve isn’t just another fitness app. It’s purpose-built for people managing
 ---
 
 ## 📬 Contact  
-For feedback, support, or collaboration, reach out at: **verveapp@gmail.com**
+For feedback, support, or collaboration, reach out at: **verveapp1215@gmail.com**
 
 ---
 
