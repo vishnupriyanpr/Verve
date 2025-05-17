@@ -127,8 +127,9 @@ For feedback, support, or collaboration, reach out at: **verveapp@gmail.com**
 
 ---
 
+
 ## 👨‍💻 Development Team  
-- **Vivek K K**  https://github.com/Vivek-the-creator
+- **Vivek K K**          https://github.com/Vivek-the-creator
 - **Vishnupriyan P R**   https://github.com/vishnupriyanpr183207
 
 ---
