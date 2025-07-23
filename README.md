@@ -58,7 +58,7 @@ A visual representation of how Verve manages relationships between user profiles
 - `User`: Personal & medical information  
 - `NutritionPlan`: Generated meal schedules  
 - `ExercisePlan`: Personalized workouts  
-- `UserProgress`, `Favorites`, and `History`: Daily logs and tracking  
+- `UserProgress`, `Favorites`, and `History`: Daily logs and tracking.  
 
 ![SystemArchitecture](images/diagrams/ERdiagram.png)
 
