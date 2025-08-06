@@ -14,7 +14,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   // Initialize Gemini
-  Gemini.init(apiKey: "AIzaSyCswZ82FR-PQhLMmRtTfs1BworS1u-JH8U");
+  Gemini.init(apiKey: "ENTER_YOUR_GEMINI_API_KEY_HERE");
 
   // Initialize Firebase
   await Firebase.initializeApp(
