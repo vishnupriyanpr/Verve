@@ -131,6 +131,6 @@ Don't forget to like the repository !
 
 ## 👨‍💻 Development Team  
 - **Vivek K K**          : https://github.com/Vivek-the-creator
-- **Vishnupriyan P R**   : https://github.com/vishnupriyanpr183207
+- **Vishnupriyan P R**   : https://github.com/vishnupriyanpr
 
 ---
