@@ -87,7 +87,7 @@ How Verve generates a custom plan:
 
 ### ⚙️ Installation Steps
 ```bash
-git clone https://github.com/your-repo/verve.git
+git clone https://github.com/vishnupriyanpr/verve.git
 cd verve_proto
 flutter pub get
 ```
